@@ -67,18 +67,3 @@ BLYNK_WRITE(V0) {
    ```
 4. Upload sketch `IoT_OnOff.ino` ke board ESP32
 5. Jalankan aplikasi dan coba kendalikan LED dari smartphone
-
----
-
-## 📂 Struktur File
-
-```
-├── IoT_OnOff.ino         ← Kode utama ESP32 untuk kontrol LED via Blynk
-└── README.md             ← Dokumentasi proyek
-```
-
----
-
-## 🧑‍💻 Kontributor
-
-Proyek ini dibuat sebagai implementasi sederhana **IoT Home Automation** berbasis ESP32 & Blynk oleh tim iMCLab / UAS / praktikum.
