@@ -1,8 +1,8 @@
-# 💡 IoT LED Control via Blynk – ESP32 Project
+# 💡 IoT LED Control – ESP32 Project
 
 ## 📌 Deskripsi Singkat Proyek
 
-Proyek ini merupakan implementasi **Internet of Things (IoT)** menggunakan **ESP32** dan platform **Blynk** untuk mengontrol **LED** dari jarak jauh melalui aplikasi mobile.
+Proyek ini merupakan implementasi **Internet of Things (IoT)** menggunakan **ESP32** untuk mengontrol **LED**.
 
 Fitur utama:
 - Kendali LED ON/OFF dari aplikasi Blynk
